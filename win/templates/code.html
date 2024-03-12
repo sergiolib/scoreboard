@@ -1,0 +1,6 @@
+<h1>Enter the secret code</h1>
+<form action="/check" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>

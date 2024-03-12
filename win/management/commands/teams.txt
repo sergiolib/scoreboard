@@ -1,0 +1,6 @@
+team 1,1
+team 2,2
+team 3,3
+team 4,4
+team 5,5
+team 6,6
